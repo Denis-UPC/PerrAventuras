@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\GitHub\\PerrAventuras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|d:\\github\\perraventuras\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|d:\\github\\perraventuras\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CharacterData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\characterswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:26:52.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
@@ -42,38 +59,34 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:40:43.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:40:43.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EnemyPatrol.cs",
               "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\EnemyPatrol.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPatrol.cs",
               "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\EnemyPatrol.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyPatrol.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T19:02:04.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T19:02:04.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CharacterData.cs",
               "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterData.cs",
               "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CharacterData.cs",
               "RelativeToolTip": "Assets\\Scripts\\CharacterData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:56:07.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:56:07.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CharacterSwitcher.cs",
               "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CharacterSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSwitcher.cs",
@@ -85,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA0wC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:46:11.936Z"
+              "WhenOpened": "2025-07-21T18:46:11.936Z",
+              "EditorCaption": ""
             }
           ]
         }
