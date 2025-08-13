@@ -136,9 +136,10 @@ GameObject:
   - component: {fileID: 480422514}
   - component: {fileID: 480422513}
   - component: {fileID: 480422512}
+  - component: {fileID: 480422518}
   m_Layer: 0
   m_Name: Piki
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -155,13 +156,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbf5c4f4ca5164c458214909a8a51922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  jumpForce: 12
-  dashForce: 15
-  groundCheckDistance: 0.4
+  moveSpeed: 6
+  rotationSpeed: 200
+  jumpForce: 15
+  groundRayLength: 1.1
   groundMask:
     serializedVersion: 2
     m_Bits: 256
+  dashSpeed: 50
+  dashDuration: 0.2
 --- !u!54 &480422513
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -184,7 +187,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 0
+  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -276,9 +279,21 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 581786934}
-  - {fileID: 963194228}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &480422518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 480422511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e215bebc2ab55d440b292b3d50b942c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemsCollected: 3
 --- !u!1 &581786933
 GameObject:
   m_ObjectHideFlags: 0
@@ -601,7 +616,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 480422517}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
@@ -621,6 +636,7 @@ MonoBehaviour:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 480422517}
   - {fileID: 614280686}
