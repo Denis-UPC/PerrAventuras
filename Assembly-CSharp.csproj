@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\ButtonActivator.cs" />
     <Compile Include="Assets\Scripts\BoneCollectible.cs" />
     <Compile Include="Assets\Scripts\CheckPoint.cs" />
+    <Compile Include="Assets\Scripts\CheckpointSystem.cs" />
     <Compile Include="Assets\Scripts\PlayerRespawn.cs" />
     <Compile Include="Assets\Scripts\PuzzleManager.cs" />
     <Compile Include="Assets\Scripts\PuzzleSwitch.cs" />

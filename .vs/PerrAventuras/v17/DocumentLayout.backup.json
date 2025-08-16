@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sanchez_d\\Documents\\GitHub\\PerrAventuras\\",
+  "WorkspaceRootPath": "D:\\GitHub\\PerrAventuras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|c:\\users\\sanchez_d\\documents\\github\\perraventuras\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|d:\\github\\perraventuras\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|d:\\github\\perraventuras\\assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|D:\\GitHub\\PerrAventuras\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D01C015-1068-CF31-F8BD-E3FABB70D87B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T23:52:28.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCollector.cs",
+              "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollector.cs",
+              "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCollector.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:24:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\sanchez_d\\Documents\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\sanchez_d\\Documents\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\GitHub\\PerrAventuras\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T18:46:11.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T18:46:11.936Z"
             }
           ]
         }
